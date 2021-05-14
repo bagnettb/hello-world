@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "text__to_tiff_NET", "text__to_tiff_NET\text__to_tiff_NET.vbproj", "{C08FF391-6723-455D-A8C6-7E9A84953371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08FF391-6723-455D-A8C6-7E9A84953371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08FF391-6723-455D-A8C6-7E9A84953371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08FF391-6723-455D-A8C6-7E9A84953371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08FF391-6723-455D-A8C6-7E9A84953371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D8C76B-A651-495A-B0F3-3BE6257E010B}
+	EndGlobalSection
+EndGlobal
